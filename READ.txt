@@ -1,0 +1,32 @@
+
+###########################################
+Selalu Update Seputar Hacking
+Youtube: Risky Channel
+
+SUBSCRIBE,COMMENT,LIKE,SHARE FOR NEW SCRIPT
+###########################################
+#################Tutorial##################
+
+
+$ apt update && apt upgrade
+
+$ apt install php
+
+$ apt install nano
+
+$ apt install git
+
+$ git clone https://github.com/Ro0TN3T/vee
+
+$ cd vee
+
+$ nano config
+###########################################
+*/$access_token ="Masukan Token Anda"/*
+###########################################
+#                                         #
+#################Jalankan##################
+
+$ php bot.php
+
+##############Selamat Menikmati############
